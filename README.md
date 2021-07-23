@@ -10,19 +10,6 @@ This is a friendly Twitter Bot, created with python to retweet tweets with #engi
 - Python
 - Wing Python IDE
 
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-### Prerequisites
-- A Code Editor of your choice
-
-### To clone the repo to your local repository:
-`https://github.com/natashac18/My-First-Website.git`
-
-`cd My-First-Website`
-
-Open index.html in your preferred browser
-
 ## Author
 
 :bust_in_silhouette: **Natasha Chitongo** 
